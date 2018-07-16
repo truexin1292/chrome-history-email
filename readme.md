@@ -24,3 +24,7 @@ http://www.runoob.com/sqlite/sqlite-order-by.html
 ![](.readme_images/bec5b3a8.png)
 ```chmod +x test1.sh```
 参考：https://blog.csdn.net/jin_kwok/article/details/52094999
+
+
+附上本地项目结构：
+![](.readme_images/8e5b16d8.png)
